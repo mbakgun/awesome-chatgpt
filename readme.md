@@ -148,6 +148,7 @@
 - [Sidekick](https://github.com/ai-sidekick/sidekick) - Connect external data to ChatGPT APIs through a dashboard.
 - [twitterbio](https://github.com/Nutlope/twitterbio) - Generate your Twitter bio.
 - [Beelzebub](https://github.com/mariocandela/beelzebub) - Secure honeypot framework.
+- [Heym](https://github.com/heymrun/heym) - Agent workflows using OpenAI models, with tool calls, human approval checkpoints, and execution traces.
 
 ### Examples
 
